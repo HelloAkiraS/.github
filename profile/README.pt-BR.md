@@ -8,4 +8,4 @@ Este é o meu GitHub pessoal, onde guardo os projetos que desenvolvo fora da sal
 
 Os trabalhos e exercícios da Fatec ficam em uma organização separada, a [Fatec-Sistemas-para-Internet](https://github.com/Fatec-Sistemas-para-Internet), para deixar tudo bem organizado.
 
-Você também pode me encontrar no [Instagram](https://instagram.com/akiraapenas).
+Você também pode me encontrar no [Instagram](https://instagram.com/akiraapenas) && [LinkedIn](https://www.linkedin.com/in/enzoakira/).
