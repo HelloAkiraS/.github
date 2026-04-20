@@ -8,4 +8,4 @@ This is my personal GitHub, where I keep projects I build beyond the classroom â
 
 Coursework and exercises from Fatec live in a separate organization, [Fatec-Sistemas-para-Internet](https://github.com/Fatec-Sistemas-para-Internet), to keep things tidy.
 
-You can also find me on [Instagram](https://instagram.com/akiraapenas) && [LinkedIn](https://www.linkedin.com/in/enzoakira/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/enzoakira/).
