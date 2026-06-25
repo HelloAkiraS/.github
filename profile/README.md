@@ -1,4 +1,4 @@
-🌍 *Read this in other languages: [Português](README.pt-BR.md)*
+🌍 *Read this in other languages: [Português](profile/README.pt-BR.md)*
 ---
 # Hey there! 👋 I'm Enzo Akira
 
